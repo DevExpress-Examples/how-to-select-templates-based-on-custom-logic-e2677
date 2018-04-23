@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXGrid-ImplementingTemplateSelector", "DXGrid-ImplementingTemplateSelector\DXGrid-ImplementingTemplateSelector.csproj", "{6124A96A-CD92-46E4-B28C-A0622B3F01CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6124A96A-CD92-46E4-B28C-A0622B3F01CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6124A96A-CD92-46E4-B28C-A0622B3F01CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6124A96A-CD92-46E4-B28C-A0622B3F01CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6124A96A-CD92-46E4-B28C-A0622B3F01CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
